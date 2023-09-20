@@ -12,11 +12,16 @@ The final project completed during the Front-end Beginning Course with Online In
 ## UI Screenshot 
 
 <img width="1074" alt="Screenshot 2023-09-20 at 11 11 17" src="./img/Screenshot-landing-page.jpeg" >
-<p align="right"><em>Etnodim landing page</em><p>
+
+*Etnodim landing page*
+
 <img width="1074" alt="Screenshot 2023-09-20 at 11 14 55" src="./img/Screenshot-menu-pop-up.jpeg" >
-<p align="right"><em>Pop-up menu on hover</em><p>
+
+*Pop-up menu on hover*
+
 <img width="1074" alt="Screenshot 2023-09-20 at 11 14 55" src="./img/Screenshot-cart.jpeg" >
-<p align="right"><em>Cart Page</em><p>
+
+*Cart Page*
 
 ## Introduction
 
